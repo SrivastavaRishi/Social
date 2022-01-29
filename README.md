@@ -1,6 +1,6 @@
 # Social
 
-##Social media application that has following features : 
+## Social media application that has following features : 
 * Register/Login feature
 * Post update
 * Follow/Unfollow a user
